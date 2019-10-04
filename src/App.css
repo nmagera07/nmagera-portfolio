@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  
+}
+
+.navbar {
+  height: 250px;
+  
+}
+
+.navbar a {
+  text-decoration: none;
+  color: rgb(78, 76, 76);
+}
+
+.navbar h1 {
+  font-size: 40px;
+  margin-top: 2%;
+}
+
+.intro {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 1%;
+}
+
+hr {
+  width: 10%;
+  margin: 20px auto;
+}
+
+.icon-list {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  width: 15%;
+}
+
+.main-content {
+  display: flex;
+  
+  justify-content: center;
+}
+
+.boxes {
+  width: 25%;
+  margin: 2%;
+}
+
+.boxes p {
+  line-height: 1.8rem;
+  font-size: 15px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
