@@ -7,22 +7,22 @@ const MainContent = (props) => {
             {/* <p>Here are a few projects I've worked on that I'm pretty proud of!</p> */}
             <div className="main-content">
                 <div className="boxes">
-                    <Card >
+                    <Card className="new-card">
                     <Card.Header><h3>Labby</h3></Card.Header>
-                    <Card.Description className="custom-cards">
+                    <div className="custom-cards">
                     <p>Labby is a Slackbot that provides a host of interactive and automated capabilities to Lambda Labs students and staff. This Slackbot was built with NodeJS along with Go, using a Postgresql database, hosted on AWS.</p>
-                    </Card.Description>
+                    </div>
                     <Card.Content extra>
                     <p><a href="https://github.com/Lambda-School-Labs/labby-be">Github Page</a></p>
                     </Card.Content>
                     </Card>
                 </div>
                 <div className="boxes">
-                    <Card className="custom-cards">
+                    <Card className="new-card">
                     <Card.Header><h3>NASA API Photo Of The Day</h3></Card.Header>
-                    <Card.Description>
+                    <div className="custom-cards">
                     <p>A front end application built in React. This project uses the NASA API to grab a photo along with information to display on a web page. You can even click for a random date of info!</p>
-                    </Card.Description>
+                    </div>
                     <Card.Content extra>
                         <div className="links">
                             
@@ -34,11 +34,11 @@ const MainContent = (props) => {
                     </Card>
                 </div>
                 <div className="boxes">
-                    <Card className="custom-cards">
+                    <Card className="new-card">
                     <Card.Header><h3>Gif-fy Town</h3></Card.Header>
-                    <Card.Description>
+                    <div className="custom-cards">
                     <p>A full stack application built in React and NodeJS. This project uses the Giphy API to display a random gif You can even click for a random gif!</p>
-                    </Card.Description>
+                    </div>
                     <Card.Content extra>
                         <div className="links">
                             
@@ -50,11 +50,11 @@ const MainContent = (props) => {
                     </Card>
                 </div>
                 <div className="boxes">
-                    <Card className="custom-cards">
+                    <Card className="new-card">
                     <Card.Header><h3>Art Portfolio</h3></Card.Header>
-                    <Card.Description>
+                    <div className="custom-cards">
                     <p>A full stack application built in React and NodeJS. This application stores pictures and descriptions of a person's artwork. This project was build in tandem with 5 other people, and I was the Backend Engineer. </p>
-                    </Card.Description>
+                    </div>
                     <Card.Content extra>
                         <div className="links">
                             

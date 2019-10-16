@@ -74,16 +74,20 @@ hr {
   color: #6E734C;
 }
 
-.ui.card.description.custom-cards {
-  /* height: 240px;
-  width: 450px; */
+.custom-cards {
+  height: 50%;
+  /* width: 450px; */
+}
+
+.ui.card.new-card {
+  width: 450px;
 }
 
 .boxes p {
   line-height: 1.8rem;
   font-size: 15px;
   margin: 10%;
-  height: 125px;
+  height: 100px;
   padding-top: 10px;
 }
 .links {
