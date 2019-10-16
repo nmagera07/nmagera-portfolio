@@ -7,9 +7,9 @@ const MainContent = (props) => {
             {/* <p>Here are a few projects I've worked on that I'm pretty proud of!</p> */}
             <div className="main-content">
                 <div className="boxes">
-                    <Card className="custom-cards">
+                    <Card >
                     <Card.Header><h3>Labby</h3></Card.Header>
-                    <Card.Description>
+                    <Card.Description className="custom-cards">
                     <p>Labby is a Slackbot that provides a host of interactive and automated capabilities to Lambda Labs students and staff. This Slackbot was built with NodeJS along with Go, using a Postgresql database, hosted on AWS.</p>
                     </Card.Description>
                     <Card.Content extra>

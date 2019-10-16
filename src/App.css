@@ -74,9 +74,9 @@ hr {
   color: #6E734C;
 }
 
-.ui.card.custom-cards {
-  height: 240px;
-  width: 450px;
+.ui.card.description.custom-cards {
+  /* height: 240px;
+  width: 450px; */
 }
 
 .boxes p {
