@@ -3,7 +3,7 @@ import { Card } from 'semantic-ui-react'
 
 const Skills = (props) => {
     return ( 
-        <div>
+        <div className="skills-box">
             <h1>Skills</h1>
             <div className="skills">
                 <div className="skill-boxes">   

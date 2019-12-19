@@ -100,6 +100,10 @@ hr {
   color: rgb(11, 63, 97);
 }
 
+.picture {
+  margin-bottom: 2%;
+}
+
 .about-text {
   margin-top: 2%;
   line-height: 2rem;
@@ -132,6 +136,11 @@ hr {
   display: flex;
 
 }
+
+.skills-box h3{
+  font-size: 2rem;
+}
+
 .skill-boxes {
   display: flex;
   justify-content: space-evenly;
@@ -144,7 +153,8 @@ hr {
 }
 
 .skill-boxes h3 {
-  color: #6E734C
+  color: #6E734C;
+  font-size: 1.5rem;
 }
 
 .frameworks {
