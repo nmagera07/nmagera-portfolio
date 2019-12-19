@@ -137,7 +137,7 @@ hr {
 
 }
 
-.skills-box h3{
+.skills-box h1{
   font-size: 2rem;
 }
 
@@ -154,7 +154,8 @@ hr {
 
 .skill-boxes h3 {
   color: #6E734C;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  margin-bottom: 5%;
 }
 
 .frameworks {
