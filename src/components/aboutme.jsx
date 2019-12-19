@@ -1,10 +1,14 @@
 import React from 'react';
 import { FaFacebook, FaTwitter, FaGithub } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
+import logo from "../components/natepic.jpeg"
 
 const AboutMe = (props) => {
     return ( 
         <div className="aboutme">
+            <div className="picture">
+            <img src={logo} alt="nate-magera"></img>
+            </div>
             <h1>Nate Magera</h1>
             <div className="about-text">
             <p>Hello! I'm currently a Full Stack Development student at Lambda School.</p>

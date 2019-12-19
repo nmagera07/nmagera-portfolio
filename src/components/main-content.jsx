@@ -1,10 +1,11 @@
 import React from 'react';
 import { Card } from 'semantic-ui-react'
+
 const MainContent = (props) => {
     return ( 
         <div className="main">
             <h1>Projects</h1>
-            {/* <p>Here are a few projects I've worked on that I'm pretty proud of!</p> */}
+            
             <div className="main-content">
                 <div className="boxes">
                     <Card className="new-card">

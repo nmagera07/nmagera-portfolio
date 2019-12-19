@@ -87,6 +87,12 @@ hr {
   font-family: 'Roboto Mono', monospace;
 }
 
+.aboutme img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
 .aboutme h1 {
   font-size: 4rem;
   font-family: 'Lobster', cursive;
@@ -120,6 +126,42 @@ hr {
   justify-content: space-evenly;
   margin: 25px;
   font-family: 'Dosis', sans-serif;
+}
+
+.skills {
+  display: flex;
+
+}
+.skill-boxes {
+  display: flex;
+  justify-content: space-evenly;
+  width: 40%;
+  margin: 0 auto;
+  padding: 20px;
+  flex-flow: wrap;
+  font-family: 'Dosis', sans-serif;
+  line-height: 2rem;
+}
+
+.skill-boxes h3 {
+  color: #6E734C
+}
+
+.frameworks {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ui.card.skill1 {
+  /* margin-top: 2%px; */
+  height: 200px;
+  padding: 20px;
+}
+
+.ui.card.skill2 {
+  margin: 0;
+  padding: 20px;
+  height: 200px;
 }
 
 .boxes h3 {
