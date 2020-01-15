@@ -13,7 +13,6 @@ const Skills = (props) => {
                             <li>JavaScript</li>
                             <li>HTML/CSS</li>
                             <li>Python</li>
-                            <li>NodeJS</li>
                         </ul>
                     </Card>
                     <Card className="skill2">

@@ -14,8 +14,10 @@ const MainContent = (props) => {
                     <p>This family site was originally built in HTML/CSS. I rebuild the site in React, while adding the functionality to add data to a table. I did this by adding a Postgresql database, and using Express to relay data to the React app.</p>
                     </div>
                     <Card.Content extra>
+                        <div className="links">
                     <p><a href="https:www.reid-family-site.netlify.com">Project Page</a></p>
                     <p><a href="https://github.com/nmagera07/family-site">Github Page</a></p>
+                    </div>
                     </Card.Content>
                     </Card>
                 </div>
