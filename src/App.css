@@ -147,7 +147,6 @@ hr {
   width: 40%;
   margin: 0 auto;
   padding: 20px;
-  flex-flow: wrap;
   font-family: 'Dosis', sans-serif;
   line-height: 2rem;
 }

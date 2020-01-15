@@ -9,12 +9,13 @@ const MainContent = (props) => {
             <div className="main-content">
                 <div className="boxes">
                     <Card className="new-card">
-                    <Card.Header><h3>Labby</h3></Card.Header>
+                    <Card.Header><h3>Family Website</h3></Card.Header>
                     <div className="custom-cards">
-                    <p>Labby is a Slackbot that provides a host of interactive and automated capabilities to Lambda Labs students and staff. This Slackbot was built with NodeJS along with Go, using a Postgresql database, hosted on AWS.</p>
+                    <p>This family site was originally built in HTML/CSS. I rebuild the site in React, while adding the functionality to add data to a table. I did this by adding a Postgresql database, and using Express to relay data to the React app.</p>
                     </div>
                     <Card.Content extra>
-                    <p><a href="https://github.com/Lambda-School-Labs/labby-be">Github Page</a></p>
+                    <p><a href="https:www.reid-family-site.netlify.com">Project Page</a></p>
+                    <p><a href="https://github.com/nmagera07/family-site">Github Page</a></p>
                     </Card.Content>
                     </Card>
                 </div>
