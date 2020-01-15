@@ -11,12 +11,12 @@ const MainContent = (props) => {
                     <Card className="new-card">
                     <Card.Header><h3>Family Website</h3></Card.Header>
                     <div className="custom-cards">
-                    <p>This family site was originally built in HTML/CSS. I rebuild the site in React, while adding the functionality to add data to a table. I did this by adding a Postgresql database, and using Express to relay data to the React app.</p>
+                    <p>This family site was originally built in HTML/CSS. I rebuilt the site in React, while adding the functionality to add data to a table. I did this by adding a Postgresql database and using Express to relay data to the React app.</p>
                     </div>
                     <Card.Content extra>
                         <div className="links">
-                    <p><a href="https:www.reid-family-site.netlify.com">Project Page</a></p>
-                    <p><a href="https://github.com/nmagera07/family-site">Github Page</a></p>
+                    <p><a href="https://www.reid-family-site.netlify.com" target="_blank" rel="noopener noreferrer">Project Page</a></p>
+                    <p><a href="https://github.com/nmagera07/family-site" target="_blank" rel="noopener noreferrer">Github Page</a></p>
                     </div>
                     </Card.Content>
                     </Card>
@@ -30,8 +30,8 @@ const MainContent = (props) => {
                     <Card.Content extra>
                         <div className="links">
                             
-                            <p><a href="https://flamboyant-wescoff-2ce805.netlify.com/">Project Page</a></p>
-                            <p><a href="https://github.com/nmagera07/nasa-photo-of-the-day">Github Page</a></p>
+                            <p><a href="https://nasa-api-test-project.netlify.com/" target="_blank" rel="noopener noreferrer">Project Page</a></p>
+                            <p><a href="https://github.com/nmagera07/nasa-photo-of-the-day" target="_blank" rel="noopener noreferrer">Github Page</a></p>
                            
                         </div>
                          </Card.Content>
@@ -46,8 +46,8 @@ const MainContent = (props) => {
                     <Card.Content extra>
                         <div className="links">
                             
-                            <p><a href="https://nmagera-giphy-test.netlify.com/">Project Page</a></p>
-                            <p><a href="https://github.com/nmagera07/giphy-login-app">Github Page</a></p>
+                            <p><a href="https://nmagera-giphy-test.netlify.com/" target="_blank" rel="noopener noreferrer">Project Page</a></p>
+                            <p><a href="https://github.com/nmagera07/giphy-login-app" target="_blank" rel="noopener noreferrer">Github Page</a></p>
                            
                         </div>
                          </Card.Content>
@@ -62,8 +62,8 @@ const MainContent = (props) => {
                     <Card.Content extra>
                         <div className="links">
                             
-                            <p><a href="https://amazing-saha-bf876d.netlify.com/">Project Page</a></p>
-                            <p><a href="https://github.com/Lambda-ArtPortfolio/BE-ArtPortfolio">Github Page</a></p>
+                            <p><a href="https://amazing-saha-bf876d.netlify.com/" target="_blank" rel="noopener noreferrer">Project Page</a></p>
+                            <p><a href="https://github.com/Lambda-ArtPortfolio/BE-ArtPortfolio" target="_blank" rel="noopener noreferrer">Github Page</a></p>
                            
                         </div>
                          </Card.Content>

@@ -18,7 +18,7 @@ const AboutMe = (props) => {
                 <a href="https://www.facebook.com/nmagera07" target="_blank" rel="noopener noreferrer"><FaFacebook size="25px"/></a>
                 <a href="https://twitter.com/natemagera" target="_blank" rel="noopener noreferrer"><FaTwitter size="25px"/></a>
                 <a href="https://github.com/nmagera07" target="_blank" rel="noopener noreferrer"><FaGithub size="25px"/></a>
-                <a href="https://www.facebook.com/nmagera07" target="_blank" rel="noopener noreferrer"><MdEmail size="25px"/></a>
+                <a href="mailto:nmagera07@gmail.com" target="_blank" rel="noopener noreferrer"><MdEmail size="25px"/></a>
             </div>
             </div>
             <hr></hr>
