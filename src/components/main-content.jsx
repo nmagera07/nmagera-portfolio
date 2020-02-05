@@ -57,7 +57,7 @@ const MainContent = (props) => {
                     <Card className="new-card">
                     <Card.Header><h3>Art Portfolio</h3></Card.Header>
                     <div className="custom-cards">
-                    <p>A full stack application built in React and NodeJS. This application stores pictures and descriptions of a person's artwork. This project was build in tandem with 5 other people, and I was the Backend Engineer. </p>
+                    <p>A full stack application built in React and NodeJS. This application stores pictures and descriptions of a person's artwork. This project was built in tandem with 5 other people, and I was the Backend Engineer. </p>
                     </div>
                     <Card.Content extra>
                         <div className="links">
