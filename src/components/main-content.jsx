@@ -41,7 +41,7 @@ const MainContent = (props) => {
                     <Card className="new-card">
                     <Card.Header><h3>Gif-fy Town</h3></Card.Header>
                     <div className="custom-cards">
-                    <p>A full stack application built in React and NodeJS. This project uses the Giphy API to display a random gif You can even click for a random gif!</p>
+                    <p>A full stack application built in React and NodeJS. This project uses the Giphy API to display a random gif. You can even click for a random gif!</p>
                     </div>
                     <Card.Content extra>
                         <div className="links">
